@@ -1,0 +1,20 @@
+# # dependencies
+# /node_modules
+
+# # local env files
+# /backend/config/config.env
+
+# dependencies
+node_modules/
+
+# environment files
+.env
+/backend/config/config.env
+
+# build files
+dist/
+build/
+
+# system files
+.DS_Store
+Thumbs.db
